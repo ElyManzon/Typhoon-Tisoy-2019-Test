@@ -1,90 +1,446 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-57;PRC;Health;Safety;Assisted;722;72231;Lao;Finished;15;individuals
-55;PRC;Health;Safety;Assisted;837;83738;;Finished;25;individuals
-34;PRC;Relief;Food;Blanket;878;87805;Bacolod;Finished;15;families
-31;PRC;Relief;Food;Blanket;878;87805;Bool Central;Finished;55;families
-32;PRC;Relief;Food;Blanket;878;87805;Bool Central;Finished;65;families
-33;PRC;Relief;Food;Blanket;878;87805;Patag;Finished;67;families
-35;PRC;Relief;Food;Blanket;878;87805;Bitongto-an;Finished;70;families
-30;PRC;Relief;Food;Blanket;878;87805;Bool East;Finished;78;families
-80;PRC;Health;Safety;BP Taking;410;41005;Lipata;Finished;2;individuals
-82;PRC;Health;Safety;BP Taking;630;63035;;Finished;26;individuals
-65;PRC;Health;Safety;BP Taking;746;74611;;Finished;14;individuals
-81;PRC;Health;Safety;BP Taking;1667;166724;;Finished;40;individuals
-39;PRC;Health;Safety;BP Taking;1667;166724;;Finished;41;individuals
-8;PRC;Health;Safety;BP Taking;1667;166724;;Finished;66;individuals
-2;PRC;Health;Welfare;Child Friendly Activity;630;63005;;Finished;78;individuals
-58;PRC;Relief;Non Food Items;Clothing;837;83738;Manlilinao;Finished;40;families
-18;PRC;Relief;Non Food Items;Clothing (Individual);1752;175204;Nasucob;Finished;296;individuals
-17;PRC;Relief;Non Food Items;Clothing (Individual);1752;175204;Cambunang;Finished;602;individuals
-38;PRC;Health;Safety;First Aid;746;74611;;Finished;1;individual
-79;PRC;Health;Safety;First Aid;1667;166724;Lipata;Finished;1;individual
-51;PRC;Health;Safety;First Aid Station;722;72217;;Finished;1;unit
-22;PRC;Health;Safety;First Aid Station;837;83738;;Finished;1;unit
-40;PRC;Health;Safety;First Aid Station;541;54111;;Finished;1;unit
-60;PRC;Health;Safety;First Aid Station;746;74611;;Finished;1;unit
-83;PRC;Health;Safety;First Aid Station;1759;175910;Lipata;Finished;1;unit
-84;PRC;Health;Safety;First Aid Station;1667;166724;;Finished;1;unit
-85;PRC;Health;Safety;First Aid Station;1667;166724;;Finished;1;unit
-71;PRC;Health;Safety;First Aid Station;1667;166724;;Finished;1;unit
-9;PRC;Relief;Food;Food Items (Assorted);878;87805;Poblacion;Finished;100;families
-28;PRC;Relief;Food;Food Items (Assorted);878;87805;Bacolod;Finished;15;families
-25;PRC;Relief;Food;Food Items (Assorted);878;87805;Bool Central;Finished;55;families
-26;PRC;Relief;Food;Food Items (Assorted);878;87805;Bool Central;Finished;65;families
-27;PRC;Relief;Food;Food Items (Assorted);878;87805;Patag;Finished;67;families
-29;PRC;Relief;Food;Food Items (Assorted);878;87805;Bitongto-an;Finished;70;families
-24;PRC;Relief;Food;Food Items (Assorted);619;61913;Bool East;Finished;78;families
-68;PRC;Relief;Food;Food Items (Assorted);1752;175204;;Finished;3;families
-45;PRC;Relief;Food;Food Items (Standard);606;60611;;Finished;300;families
-4;PRC;Relief;Food;Food Items (Standard);606;60611;Baluan;Finished;302;families
-76;PRC;Relief;Food;Food Items (Standard);630;63005;Murtha;Finished;35;families
-12;PRC;Relief;Food;Food Items (Standard);630;63005;Liwagao;Finished;70;families
-10;PRC;Relief;Food;Food Items (Standard);1752;175204;San Isidro;Finished;168;families
-62;PRC;Relief;Food;Food Items (Standard);1752;175204;Centro Sur;Finished;204;families
-46;PRC;Relief;Food;Food Items (Standard);1752;175204;;Finished;221;families
-11;PRC;Relief;Food;Food Items (Standard);1751;175102;Maasin;Finished;260;families
-47;PRC;Relief;Food;Food Items (Standard);1751;175105;Rizal;Finished;293;families
-3;PRC;Relief;Food;Food Items (Standard);1751;175105;Cabalic;Finished;398;families
-20;PRC;Relief;Food;Food Items (Standard);1751;175105;;Finished;87;families
-63;PRC;Relief;Food;Food Items (Standard);1751;175105;Carmen;Finished;96;families
-48;PRC;Relief;Food;Food Items (Standard);1751;175110;Alibog;Finished;110;families
-69;IFRC;Welfare;Food;Hotmeals;410;41005;;Finished;61;individuals
-37;IFRC;Welfare;Food;Hotmeals;878;87805;Virginia;Finished;200;individuals
-77;IFRC;Welfare;Food;Hotmeals;878;87805;Poblacion;Finished;500;individuals
-89;IFRC;Welfare;Food;Hotmeals;619;61914;;Finished;579;individuals
-41;IFRC;Welfare;Food;Hotmeals;619;61914;Sapao;Finished;770;individuals
-50;IFRC;Welfare;Food;Hotmeals;619;61916;;Finished;26;individuals
-36;IFRC;Welfare;Food;Hotmeals;722;72217;Binongto;Finished;120;individuals
-64;IFRC;Welfare;Food;Hotmeals;630;63005;Man it;Finished;333;individuals
-73;IFRC;Welfare;Food;Hotmeals;630;63018;;Finished;65;individuals
-7;IFRC;Welfare;Food;Hotmeals;630;63035;;Finished;978;individuals
-1;IFRC;Welfare;Food;Hotmeals;837;83747;;Finished;79;individuals
-70;IFRC;Welfare;Food;Hotmeals;541;54111;;Finished;91;individuals
-74;IFRC;Welfare;Food;Hotmeals;1759;175910;Banica;Finished;450;individuals
-21;IFRC;Welfare;Food;Hotmeals;1759;175910;;Finished;482;individuals
-54;PRC;WASH;WASH;Hygiene Promotion;562;56212;;Finished;120;families
-19;PRC;Relief;Food;Medianoche;604;60405;Tigum;Finished;340;families
-5;PRC;Relief;Food;Medianoche;1752;175204;San Antonio;Finished;110;families
-6;PRC;Relief;Food;Medianoche;1751;175110;Payapay;Finished;120;families
-75;PRC;Relief;Food;Medianoche;860;86002;San Roque;Finished;572;families
-14;PRC;Relief;Food;Medianoche;860;86002;Maujao;Finished;300;families
-59;PRC;Relief;Non Food Items;Mosquito Net;837;83738;Manlilinao;Finished;40;families
-56;IFRC;Health;Welfare;Psychosocial First Aid;604;60406;Cawayan;Finished;1;individual
-43;IFRC;Health;Welfare;Psychosocial First Aid;604;60406;Naile;Finished;2;individuals
-44;IFRC;Health;Welfare;Psychosocial First Aid;604;60406;Maloco;Finished;2;individuals
-42;IFRC;Health;Welfare;Psychosocial First Aid;604;60415;;Finished;4;individuals
-78;PRC;Health;Welfare;Psychosocial First Aid;619;61908;;Finished;2;individuals
-49;IFRC;Health;Welfare;Psychosocial First Aid;619;64521;;Finished;4;individuals
-66;IFRC;Health;Welfare;Psychosocial First Aid;619;61913;;Finished;4;individuals
-67;IFRC;Health;Welfare;Psychosocial First Aid;1667;166724;;Finished;8;individuals
-16;PRC;WASH;WASH;Water Distribution;1752;175204;Nasucob;Finished;750;liters
-53;PRC;WASH;WASH;Water Distribution;1752;175204;;Finished;1500;liters
-13;PRC;WASH;WASH;Water Distribution;1752;175204;Poblacion;Finished;10,000;liters
-15;PRC;WASH;WASH;Water Distribution;562;56212;;Finished;3000;liters
-52;PRC;Health;Welfare;Welfare Desk;722;72217;;Finished;1;unit
-23;PRC;Health;Welfare;Welfare Desk;837;83738;;Finished;1;unit
-61;PRC;Health;Welfare;Welfare Desk;541;54111;;Finished;1;unit
-86;PRC;Health;Welfare;Welfare Desk;1759;175910;Lipata;Finished;1;unit
-87;PRC;Health;Welfare;Welfare Desk;1667;166724;;Finished;1;unit
-88;PRC;Health;Welfare;Welfare Desk;1667;166724;;Finished;1;unit
-72;PRC;Health;Welfare;Welfare Desk;1667;166724;;Finished;1;unit
+1;PRC;Health;Health;First Aid;PH041000000;;;Finished;1;individual
+2;PRC;Health;Health;First Aid;PH051600000;PH051612000;;Finished;1;individual
+3;PRC;Health;Health;First Aid;PH056200000;;Balogo;Finished;1;individual
+4;PRC;Health;Health;Patient Transportation;PH050500000;PH050504000;San Francisco;Finished;1;individual
+5;PRC;Health;Health;Patient Transportation;PH041000000;;;Finished;1;individual
+6;PRC;Welfare;Welfare;Tracing;PH050500000;PH050514000;Balinad;Finished;1;individual
+7;PRC;Welfare;Welfare;Welfare Desk;PH050500000;PH050504000;;Finished;1;unit
+8;PRC;Welfare;Welfare;Welfare Desk;PH050500000;PH050505000;;Finished;1;unit
+9;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056207000;Brgy Ogod;Finished;1;unit
+10;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056207000;Brgy Ogod;Finished;1;unit
+11;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056207000;Brgy Rawis;Finished;1;unit
+12;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056209000;;Finished;1;unit
+13;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056211000;Aguada North;Finished;1;unit
+14;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056211000;Cawit Extension;Finished;1;unit
+15;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056212000;Brgy Banuang Daan;Finished;1;unit
+16;PRC;Welfare;Welfare;Welfare Desk;PH056200000;PH056215000;San Sebastian;Finished;1;unit
+17;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056212000;Brgy Banuang Daan;Finished;2;individuals
+18;PRC;Health;Health;First Aid;PH054100000;;;Finished;2;individual
+19;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Cadandanan;Finished;2;families
+20;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Cadandanan;Finished;2;individuals
+21;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Cadandanan;Finished;2;families
+22;PRC;Welfare;Welfare;Psychological First Aid;PH052000000;;;Finished;2;individuals
+23;PRC;Welfare;Welfare;Psychological First Aid;PH054100000;;Espinosa;Finished;2;individuals
+24;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056215000;San Sebastian;Finished;2;individuals
+25;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Cadandanan;Finished;2;families
+26;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Cadandanan;Finished;2;families
+27;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Cadandanan;Finished;2;families
+28;PRC;Welfare;Welfare;Tracing;PH050500000;PH050513000;Basicao;Finished;2;individuals
+29;PRC;Welfare;Welfare;Tracing;PH056200000;PH056211000;Aguada North;Finished;2;individuals
+30;PRC;Welfare;Welfare;Tracing;PH056200000;PH056215000;San Sebastian;Finished;2;individuals
+31;PRC;Health;Health;Blood Pressure;PH056200000;;;Finished;4;individuals
+32;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Roxas;Finished;4;families
+33;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Roxas;Finished;4;individuals
+34;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Roxas;Finished;4;families
+35;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056209000;;Finished;4;individuals
+36;GRC;Relief;Shelter;Shelter Strengthening Kit;PH051600000;PH051607000;Brgy. 3;Finished;4;families
+37;GRC;Relief;Shelter;Shelter Strengthening Kit;PH051600000;PH051607000;Brgy. 6;Finished;4;families
+38;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Roxas;Finished;4;families
+39;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Roxas;Finished;4;families
+40;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Roxas;Finished;4;families
+41;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056207000;Brgy Ogod;Finished;6;individuals
+42;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Cocok- Caditan;Finished;6;families
+43;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Cocok- Caditan;Finished;6;individuals
+44;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Cocok- Caditan;Finished;6;families
+45;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Brgy Banuang Daan;Finished;6;individuals
+46;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Cocok- Caditan;Finished;6;families
+47;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Cocok- Caditan;Finished;6;families
+48;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Cocok- Caditan;Finished;6;families
+49;PRC;Health;Health;Blood Pressure;PH051600000;PH051612000;;Finished;7;individuals
+50;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;3;Finished;7;families
+51;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;3;Finished;7;families
+52;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;3;Finished;7;families
+53;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;3;Finished;7;families
+54;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;3;Finished;7;families
+55;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;3;Finished;7;families
+56;PRC;Welfare;Welfare;Psychological First Aid;PH051700000;PH051709000;;Finished;8;individuals
+57;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Brgy Gadgaron;Finished;8;individuals
+58;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Palale;Finished;9;families
+59;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Palale;Finished;9;individuals
+60;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Palale;Finished;9;families
+61;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Palale;Finished;9;families
+62;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Palale;Finished;9;families
+63;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Palale;Finished;9;families
+64;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056216000;Brgy Buenavista;Finished;10;individuals
+65;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Brgy Gadgaron;Finished;10;individuals
+66;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Siuton;Finished;11;families
+67;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Siuton;Finished;11;families
+68;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Siuton;Finished;11;families
+69;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Siuton;Finished;11;families
+70;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Siuton;Finished;11;families
+71;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Siuton;Finished;11;families
+72;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056207000;Brgy Rawis;Finished;13;individuals
+73;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;4;Finished;13;families
+74;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;4;Finished;13;families
+75;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056203000;Brgy Zone 7;Finished;13;individuals
+76;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;4;Finished;13;families
+77;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;4;Finished;13;families
+78;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;4;Finished;13;families
+79;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;4;Finished;13;families
+80;PRC;Welfare;Welfare;Psychological First Aid;PH051700000;PH051707000;;Finished;14;individuals
+81;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056203000;Brgy JP Laurel;Finished;14;individuals
+82;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Brgy Camcaman;Finished;14;individuals
+83;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056207000;Brgy Ogod;Finished;15;individuals
+84;PRC;Relief;Food ;Food Item ( Standard);PH175200000;PH175209000;Maningcol;Finished;15;families
+85;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056207000;Brgy Ogod;Finished;15;individuals
+86;PRC;Relief;Food ;Food Item ( Standard);PH175900000;PH175910000;Cobrador;Finished;18;families
+87;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+88;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+89;PRC;Welfare;Welfare;Psychological First Aid;PH051700000;PH051709000;;Finished;18;individuals
+90;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+91;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+92;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+93;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Brgy. Cawit Proper;Finished;18;families
+94;GRC;Relief;Shelter;Cash;PH052000000;PH051711000;Camburo;Finished;19;individuals
+95;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056212000;Matnog Church;Finished;19;individuals
+96;GRC;Relief;Shelter;Cash;PH052000000;PH051711000;Maysuram;Finished;20;individuals
+97;GRC;Relief;Shelter;Cash;PH052000000;PH051711000;Guiamlong;Finished;20;individuals
+98;GRC;Relief;Shelter;Cash;PH052000000;PH051711000;Hitoma;Finished;20;individuals
+99;GRC;Relief;Shelter;Cash;PH052000000;PH051711000;Sabangan;Finished;20;individuals
+100;PRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056212000;Brgy. Sta Isabel;Finished;20;individuals
+101;PRC;Welfare;Welfare;Psychological First Aid;PH050500000;PH050504000;San Francisco;Finished;20;individuals
+102;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056216000;Brgy Buenavista;Finished;20;individuals
+103;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056216000;Brgy. Caricaran;Finished;20;individuals
+104;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056207000;Brgy Ogod;Finished;20;individuals
+105;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+106;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+107;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+108;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+109;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+110;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056213000;Brgy Dao;Finished;21;families
+111;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Zone 7;Finished;23;families
+112;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Zone 7;Finished;23;individuals
+113;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Zone 7;Finished;23;families
+114;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Zone 7;Finished;23;families
+115;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Zone 7;Finished;23;families
+116;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Zone 7;Finished;23;families
+117;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+118;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+119;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+120;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+121;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+122;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Brgy. Pawik;Finished;24;families
+123;PRC;Relief;Food ;Food Item ( Standard);PH175900000;PH175910000;Lanos;Finished;25;families
+124;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;2;Finished;27;families
+125;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Daganas;Finished;27;families
+126;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Daganas;Finished;27;individuals
+127;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;2;Finished;27;families
+128;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Daganas;Finished;27;families
+129;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056211000;Aguada North;Finished;27;individuals
+130;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;2;Finished;27;families
+131;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Daganas;Finished;27;families
+132;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;2;Finished;27;families
+133;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Daganas;Finished;27;families
+134;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;2;Finished;27;families
+135;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Daganas;Finished;27;families
+136;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;2;Finished;27;families
+137;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175102000;New Dagupan;Finished;29;families
+138;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+139;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+140;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+141;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+142;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+143;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Osmena;Finished;29;families
+144;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Brgy. Aguada Norte;Finished;29;families
+145;PRC;Health;Health;Blood Pressure;PH041000000;;;Finished;30;individuals
+146;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175102000;Tanyag;Finished;30;families
+147;PRC;Welfare;Welfare;Child Friendly Activities;PH050500000;PH050504000;San Francisco;Finished;31;individuals
+148;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Buenavista;Finished;32;families
+149;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051716000;;Finished;32;individuals
+150;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Buenavista;Finished;32;families
+151;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Buenavista;Finished;32;families
+152;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Buenavista;Finished;32;families
+153;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Buenavista;Finished;32;families
+154;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Buenavista;Finished;32;families
+155;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+156;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+157;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+158;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+159;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+160;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Brgy. Caditaan;Finished;33;families
+161;PRC;WASH;WASH;Hygiene Promotion;PH174000000;PH174002000;;Finished;34;individuals
+162;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175200000;;;Finished;35;individuals
+163;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Salvacion;Finished;35;families
+164;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Salvacion;Finished;35;families
+165;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Salvacion;Finished;35;families
+166;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Salvacion;Finished;35;families
+167;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Salvacion;Finished;35;families
+168;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Salvacion;Finished;35;families
+169;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;San Ramon;Finished;36;individuals
+170;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;San Ramon;Finished;36;individuals
+171;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;5;Finished;36;families
+172;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;San Ramon;Finished;36;individuals
+173;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;5;Finished;36;families
+174;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;5;Finished;36;families
+175;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;5;Finished;36;families
+176;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;5;Finished;36;families
+177;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;5;Finished;36;families
+178;PRC;Relief;Food ;Food Item ( Standard);PH052000000;PH052009000;JMA Tucao;Finished;38;families
+179;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051716000;;Finished;38;individuals
+180;PRC;Relief;Food ;Food Item ( Standard);PH175200000;PH175209000;Marfrancisco;Finished;40;families
+181;PRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056214000;BrgyTupaz;Finished;40;individuals
+182;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;Penafrancia;Finished;41;individuals
+183;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;Penafrancia;Finished;41;individuals
+184;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Quezon;Finished;41;individuals
+185;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+186;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;Quezon;Finished;41;individuals
+187;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+188;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+189;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+190;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+191;IFRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Quezon;Finished;41;families
+192;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Quezon;Finished;41;individuals
+193;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056211000;Brgy. Cawit Ext.;Finished;41;families
+194;PRC;Health;Health;Blood Pressure;PH166700000;;;Finished;42;individuals
+195;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Buyo;Finished;42;individuals
+196;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Nazareno;Finished;42;individuals
+197;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054120000;Nazareno;Finished;42;individuals
+198;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054107000;Buyo;Finished;42;individuals
+199;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054107000;Nazareno;Finished;42;individuals
+200;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054107000;Buyo;Finished;42;individuals
+201;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054107000;Buyo;Finished;42;individuals
+202;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054107000;Buyo;Finished;42;individuals
+203;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Buyo;Finished;42;individuals
+204;IFRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Nazareno;Finished;42;families
+205;PRC;Relief;Food ;Food Item ( Standard);PH052000000;PH052009000;Siay;Finished;43;families
+206;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Marigodon;Finished;43;families
+207;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Marigodon;Finished;43;families
+208;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Marigodon;Finished;43;families
+209;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Marigodon;Finished;43;families
+210;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Marigodon;Finished;43;families
+211;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Marigodon;Finished;43;families
+212;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Banawan;Finished;44;families
+213;PRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056212000;Brgy Sta Isabel;Finished;44;individuals
+214;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Banawan;Finished;44;families
+215;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Banawan;Finished;44;families
+216;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Banawan;Finished;44;families
+217;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Banawan;Finished;44;families
+218;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Banawan;Finished;44;families
+219;PRC;Relief;Food ;Food Item ( Standard);PH175200000;PH175209000;Maliangcog;Finished;45;families
+220;PRC;Welfare;Welfare;Child Friendly Activities;PH051700000;PH051709000;;Finished;46;individuals
+221;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;Quezon;Finished;47;individuals
+222;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;Quezon;Finished;47;individuals
+223;PRC;Welfare;Welfare;Psychological First Aid;PH051700000;PH051707000;;Finished;47;individuals
+224;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH051700000;PH051724000;;Finished;48;individuals
+225;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051723000;Bustrac;Finished;50;individuals
+226;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056212000;Matnog Church;Finished;51;individuals
+227;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Caratagan;Finished;51;families
+228;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Caratagan;Finished;51;families
+229;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Matnog Church;Finished;51;individuals
+230;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Caratagan;Finished;51;families
+231;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Caratagan;Finished;51;families
+232;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Caratagan;Finished;51;families
+233;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Caratagan;Finished;51;families
+234;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056212000;Brgy Camcaman;Finished;55;individuals
+235;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH137500000;PH137504000;;Finished;56;individuals
+236;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Malidong;Finished;56;families
+237;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Malidong;Finished;56;families
+238;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Malidong;Finished;56;families
+239;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Malidong;Finished;56;families
+240;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Malidong;Finished;56;families
+241;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Malidong;Finished;56;families
+242;PRC;Relief;Food ;Food Item ( Standard);PH175900000;PH175910000;Alad;Finished;57;families
+243;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Penafrancia;For verification;61;individuals
+244;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054120000;Pinamasingan;Finished;61;individuals
+245;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054120000;Penafrancia;Finished;61;individuals
+246;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;Penafrancia;Finished;61;individuals
+247;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054120000;Penafrancia;Finished;61;individuals
+248;IFRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Penafrancia;Finished;61;families
+249;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Penafrancia;Finished;61;individuals
+250;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056212000;Matnog Church;Finished;62;individuals
+251;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056212000;Matnog Church;Finished;62;individuals
+252;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;Poblacion 2;Finished;64;individuals
+253;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;Poblacion 2;Finished;64;individuals
+254;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;Poblacion 2;Finished;64;individuals
+255;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH051700000;PH051724000;;Finished;65;individuals
+256;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+257;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+258;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+259;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+260;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+261;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;San Ramon;Finished;69;individuals
+262;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056216000;Brgy Buenavista;Finished;74;individuals
+263;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+264;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+265;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+266;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+267;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+268;IFRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Pinamasingan;Finished;74;families
+269;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Pinamasingan;Finished;74;individuals
+270;PRC;Relief;Food ;Food Item ( Standard);PH052000000;PH052009000;Tobrehon;Finished;78;families
+271;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Osmena;For verification;78;individuals
+272;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;Osmena;Finished;78;individuals
+273;PRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Brgy Butag;Finished;78;individuals
+274;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056212000;Brgy Gadgaron;Finished;84;individuals
+275;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175102000;Poblacion;Finished;84;families
+276;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;1;Finished;88;families
+277;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;1;Finished;88;families
+278;PRC;Welfare;Food ;Rice and Ulalam;PH050500000;PH050504000;;Finished;88;individuals
+279;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;1;Finished;88;families
+280;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;1;Finished;88;families
+281;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;1;Finished;88;families
+282;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;1;Finished;88;families
+283;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175100000;PH175110000;;Finished;90;individuals
+284;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056212000;Matnog Church;Finished;91;families
+285;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056212000;Matnog Church;Finished;91;families
+286;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056212000;Brgy Banuang Daan;Finished;91;families
+287;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056212000;Matnog Church;Finished;91;families
+288;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056212000;Matnog Church;Finished;91;families
+289;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056212000;Matnog Church;Finished;91;families
+290;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054120000;Laurente;Finished;92;individuals
+291;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054120000;Laurente;Finished;92;individuals
+292;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054120000;Laurente;Finished;92;individuals
+293;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054120000;Laurente;Finished;92;individuals
+294;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054120000;Laurente;Finished;92;individuals
+295;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Laurente;Finished;92;individuals
+296;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054107000;Pobalcion2;Finished;94;individuals
+297;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054107000;Pobalcion2;Finished;94;individuals
+298;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054107000;Pobalcion2;Finished;94;individuals
+299;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054107000;Pobalcion2;Finished;94;individuals
+300;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056203000;Lajong;Finished;95;families
+301;IFRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056203000;Lajong;Finished;95;individuals
+302;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056203000;Lajong;Finished;95;families
+303;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056203000;Lajong;Finished;95;families
+304;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056203000;Lajong;Finished;95;families
+305;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056203000;Lajong;Finished;95;families
+306;PRC;Welfare;Welfare;Child Friendly Activities;PH051700000;PH051707000;;Finished;100;individuals
+307;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051703000;;Finished;100;individuals
+308;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056212000;Brgy Camcaman;Finished;101;individuals
+309;IFRC;Relief;Non Food Items;Hygiene Kit;PH050500000;PH050513000;Basicao;Finished;101;families
+310;IFRC;Relief;Non Food Items;Jerry Can;PH050500000;PH050513000;Basicao;Finished;101;families
+311;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH050500000;PH050513000;Basicao;Finished;101;families
+312;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH050500000;PH050513000;Basicao;Finished;101;families
+313;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH050500000;PH050513000;Basicao;Finished;101;families
+314;IFRC;Relief;Shelter;Tarpaulin;PH050500000;PH050513000;Basicao;Finished;101;families
+315;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;Osmena;Finished;106;individuals
+316;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054107000;Osmena;Finished;106;individuals
+317;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;Osmena;Finished;106;individuals
+318;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054107000;Osmena;Finished;106;individuals
+319;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054107000;Osmena;Finished;106;individuals
+320;PRC;Welfare;Ready to Eat Meals;Biscuit;PH174000000;PH174002000;;Finished;109;individuals
+321;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175109000;Sta. Lucia;Finished;109;families
+322;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH174000000;;;Finished;114;individuals
+323;IFRC;Relief;Non Food Items;Hygiene Kit;PH056200000;PH056212000;Matnog Church;Finished;115;families
+324;IFRC;Relief;Non Food Items;Jerry Can;PH056200000;PH056212000;Matnog Church;Finished;115;families
+325;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH056200000;PH056212000;Brgy.Gadgaron;Finished;115;families
+326;IFRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH056200000;PH056212000;Matnog Church;Finished;115;families
+327;IFRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH056200000;PH056212000;Matnog Church;Finished;115;families
+328;IFRC;Relief;Shelter;Tarpaulin;PH056200000;PH056212000;Matnog Church;Finished;115;families
+329;PRC;Relief;Food ;Food Item ( Standard);PH052000000;PH052009000;San Juan;Finished;116;families
+330;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH137500000;PH137504000;;Finished;119;individuals
+331;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175200000;;;Finished;120;individuals
+332;PRC;Relief;Non Food Items;Hygiene Kit;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+333;PRC;Relief;Non Food Items;Jerry Can;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+334;IFRC;Relief;Non Food Items;Sleeping Kit : Mats;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+335;PRC;Relief;Non Food Items;Sleeping Kit: Blankets;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+336;PRC;Relief;Non Food Items;Sleeping Kit: Mosquito Nets;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+337;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054120000;Bocahica;Finished;120;individuals
+338;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056211000;Brgy Aguada Norte;Finished;125;individuals
+339;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056207000;Brgy Ogod;Finished;127;individuals
+340;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175109000;San Nicola;Finished;130;families
+341;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175109000;San Nicola;Finished;130;families
+342;PRC;Relief;Food ;Food Item ( Standard);PH056200000;PH056207000;Brgy Ogod;Finished;130;families
+343;PRC;Relief;Food ;Food Item ( Standard);PH056200000;PH056207000;Brgy Rawis;Finished;135;families
+344;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056207000;Brgy Rawis;Finished;135;individuals
+345;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051703000;;Finished;148;individuals
+346;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054120000;Iniwaran;Finished;150;individuals
+347;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054120000;Busing;Finished;150;individuals
+348;PRC;Welfare;Welfare;Child Friendly Activities;PH054100000;PH054120000;Boca Chica;Finished;150;individuals
+349;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056216000;Brgy. Balogo;Finished;150;individuals
+350;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054120000;Iniwaran;Finished;150;individuals
+351;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054120000;Boca Chica;Finished;150;individuals
+352;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH054120000;Busing;Finished;150;individuals
+353;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175100000;PH175110000;;Finished;150;individuals
+354;PRC;WASH;WASH;Hygiene Promotion;PH054100000;PH054120000;;Finished;150;individuals
+355;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH072200000;;;Finished;151;individuals
+356;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056203000;Brgy JP Laurel;Finished;155;individuals
+357;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH174000000;;;Finished;157;individuals
+358;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056212000;Brgy Gadgaron;Finished;160;individuals
+359;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056214000;BrgyTupaz;Finished;168;individuals
+360;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175109000;Ligaya;Finished;190;families
+361;PRC;Welfare;Welfare;Psychological First Aid;PH056200000;PH056214000;BrgyTupaz;Finished;199;individuals
+362;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH175913000;Nursery;Finished;200;individuals
+363;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH054100000;PH175913000;Baybay dagat;Finished;200;individuals
+364;PRC;WASH;WASH;Hygiene Promotion;PH056200000;PH056212000;Brgy Sta Isabel;Finished;202;individuals
+365;PRC;Relief;Food ;Food Item ( Standard);PH051700000;PH051703000;;Finished;206;families
+366;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056203000;Brgy Zone 7;Finished;210;individuals
+367;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056216000;Brgy Bibincahan;Finished;211;individuals
+368;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056203000;Brgy Zone 7;Finished;235;individuals
+369;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056211000;Brgy Aguada Norte;Finished;235;individuals
+370;PRC;WASH;WASH;Hygiene Promotion;PH050500000;PH050513000;Basicao;Finished;235;individuals
+371;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH041000000;PH041005000;Brgy. Bolbok;Finished;237;individuals
+372;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056203000;Brgy JP Laurel;Finished;240;individuals
+373;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056216000;Brgy Buenavista;Finished;247;individuals
+374;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH052000000;PH052011000;;Finished;267;individuals
+375;PRC;Relief;Food ;Food Item ( Standard);PH175100000;PH175109000;Sta. Lucia;Finished;270;families
+376;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH043400000;;;Finished;289;individuals
+377;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH050500000;PH050506000;Bigaa;Finished;300;individuals
+378;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175100000;PH175105000;;Finished;300;individuals
+379;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH052000000;PH052011000;;Finished;305;individuals
+380;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH051700000;PH051709000;;Finished;310;individuals
+381;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056216000;Brgy. Balogo;Finished;311;individuals
+382;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH174000000;;;Finished;370;individuals
+383;PRC;Welfare;Welfare;Child Friendly Activities;PH056200000;PH056216000;Brgy. Caricaran;Finished;374;individuals
+384;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056216000;Brgy. Caricaran;Finished;414;individuals
+385;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH175100000;PH175105000;;Finished;415;individuals
+386;PRC;WASH;WASH;Hygiene Promotion;PH051700000;PH051703000;Bustrac;Finished;580;individuals
+387;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH056200000;PH056214000;BrgyTupaz;Finished;595;individuals
+388;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH051700000;PH051707000;;Finished;644;individuals
+389;PRC;Health;Health;First Aid Station;PH050500000;PH050505000;;Finished;1;individual
+390;PRC;Welfare;Ready to Eat Meals;Hotmeals;PH052000000;PH052011000;;Finished;;individuals
+391;PRC;Education;Education;Tarpaulin;PH050500000;PH050511000;Maharang;Finished;6;pcs
+392;PRC;Education;Education;Tarpaulin;PH050500000;PH050511000;Manumbalay;Finished;4;pcs
+393;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Pobalcion2;Finished;;pcs
+394;PRC;Relief;Shelter;Tarpaulin;PH054100000;PH054107000;Nazareno;Finished;;pcs
+395;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Bagumbayan;Finished;6000;liters
+396;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;San Roque;Finished;6000;liters
+397;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Cullat;Finished;4000;liters
+398;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Busay;Finished;4000;liters
+399;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Bagumbayan;Finished;6000;liters
+400;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;San Roque;Finished;6000;liters
+401;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Banag;Finished;4000;liters
+402;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Banag;Finished;6000;liters
+403;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;3000;liters
+404;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;3000;liters
+405;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;2000;liters
+406;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;2000;liters
+407;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;2000;liters
+408;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Banag;Finished;4000;liters
+409;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Anislag;Finished;4000;liters
+410;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Anislag;Finished;4000;liters
+411;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Anislag;Finished;4000;liters
+412;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Arellano;Finished;1000;liters
+413;PRC;WASH;WASH;Water Distribution;PH050500000;PH050503000;Sagpon;Finished;1000;liters
+414;PRC;WASH;WASH;Water Distribution;PH051700000;PH051703000;;Finished;14000;liters
+415;PRC;WASH;WASH;Water Distribution;PH051700000;PH051716000;;Finished;8000;liters
+416;PRC;WASH;WASH;Water Distribution;PH051700000;PH051723000;Bustrac;Finished;10000;liters
+417;PRC;WASH;WASH;Water Distribution;PH051700000;;;Finished;4000;liters
+418;PRC;WASH;WASH;Water Distribution;PH056200000;PH056203000;Brgy Butag;Finished;11000;liters
+419;PRC;WASH;WASH;Water Distribution;PH056200000;PH056203000;Brgy Butag;Finished;10000;liters
+420;PRC;WASH;WASH;Water Distribution;PH056200000;PH056203000;Brgy. San Isidro;Finished;1000;liters
+421;PRC;WASH;WASH;Water Distribution;PH056200000;PH056203000;Brgy Butag;Finished;3000;liters
+422;PRC;WASH;WASH;Water Distribution;PH056200000;PH056203000;Brgy. San Isidro;Finished;1000;liters
+423;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;3000;liters
+424;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Gadgaron;Finished;3000;liters
+425;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Various Brgys;Finished;4000;liters
+426;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;5000;liters
+427;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy. Sta Isabel;Finished;4000;liters
+428;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;5000;liters
+429;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;3000;liters
+430;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;3000;liters
+431;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;5000;liters
+432;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;1000;liters
+433;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;2500;liters
+434;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;1000;liters
+435;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;2000;liters
+436;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Camcaman;Finished;6888;liters
+437;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;2500;liters
+438;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;6000;liters
+439;PRC;WASH;WASH;Water Distribution;PH056200000;PH056212000;Brgy Sta Isabel;Finished;11000;liters
+440;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Camcaman;Finished;3000;liters
+441;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Camcaman;Finished;5000;liters
+442;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Camcaman;Finished;5000;liters
+443;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Camcaman;Finished;1000;liters
+444;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Camcaman;Finished;1000;liters
+445;PRC;WASH;WASH;Water Production;PH056200000;PH056212000;Brgy Sta Isabel;Finished;2500;liters
